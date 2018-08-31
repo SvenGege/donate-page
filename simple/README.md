@@ -18,7 +18,7 @@ https://cdn.rawgit.com/zionfuo/donate-page/6fe4f885/simple/?item='donate-page&pr
 #### 使用 `iframe` 嵌入页面的代码，高度至少 `240px`，宽度至少 `310px`！
 
 ```
-<iframe src="https://cdn.rawgit.com/zionfuo/donate-page/6fe4f885/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
+<iframe src="https://cdn.rawgit.com/SvenGege/donate-page/7687bb7a/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 ```
 
 ### License
